@@ -1,0 +1,12 @@
+{
+  "name": "ai-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^4.80.0"
+  },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}
